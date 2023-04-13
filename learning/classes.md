@@ -27,7 +27,7 @@ If you know of other classes using Julia for teaching, please consider [updating
 
 * Dartmouth College
     * [EARS 13](https://dartmouth.smartcatalogiq.com/en/current/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-13)
-    * [EARS 80.03](https://dartmouth.smartcatalogiq.com/en/current/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-80-03)
+    * [EARS 80.03](https://dartmouth.smartcatalogiq.com/en/current/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-80-03)f
 * École Polytechnique Fédérale de Lausanne
     * [CIVIL 557] Decision-aid methodologies in transportation (Mor Kaspi, Virginie Lurkin), Spring 2017
 * [Einaudi Institute for Economics and Finance, Rome](http://www.eief.it/eief/)
@@ -99,7 +99,12 @@ If you know of other classes using Julia for teaching, please consider [updating
 * Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
     * Programming in Julia (Prof. [Thuener Silva](https://github.com/Thuener)), Summer 2017
     * Linear Optimization (Prof. [Alexandre Street](https://alexandrestreet.wordpress.com/)), Spring 2017
-    * Decision and Risk Analysis (Prof. [Davi Valladão](https://www.ind.puc-rio.br/en/equipe/davi-michel-valladao/)), Fall 2015
+    * Decision and Risk Analysis (Prof. [Davi Valladão](https://www.ind.puc-rio.br/en/equipe/davi-michel-valladao/)), Fall 
+
+* Pontificia Universidad Católica del Perú
+    * Causal Inference & Machine Learning (Lecturer [Alexander Quispe](https://alexanderquispe.github.io/)), Starting from Fall 2021
+
+2015
 * Purdue University
     * [CS51400](https://www.cs.purdue.edu/homes/dgleich/cs514-2016/), Numerical Analysis (Prof. [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)), Spring 2016
 * Rice University
